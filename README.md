@@ -31,4 +31,4 @@ SUMZ AI Summarizer-A Website to Summarize your article
 | :-------- | :------- | :------------------------- |
 | `api_key` | `string` | use this in program to summarize the article using AI|
 
-* fetches current weather information and forecast condition of a city.
+* Summarizes the article which will be done by providing the link of the article.
