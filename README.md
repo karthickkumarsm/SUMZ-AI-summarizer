@@ -1,6 +1,6 @@
 
 # Project Title
-SUMZ AI Summarizer-A Website to Summarize your article
+SUMZ AI Summarizer-A Website to Summarize your article for your ease
 
 
 
